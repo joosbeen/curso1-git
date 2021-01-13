@@ -32,5 +32,11 @@ git checkout -b rama-uno
 ### Ver es que rama se esta trabajando
 git branch
 
-### Cambair de rama
+### Cambiar de rama
 git checkout master
+
+### Fucionar rama-secundaria con la rama master
+git merge rama-uno
+
+### Eliminar una rama
+git checkout -d rama-uno
