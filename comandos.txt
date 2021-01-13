@@ -15,4 +15,16 @@ git reset .
 git commit -m "inf del cambios"
 
 
-### git checkout -- .
+### Regresa el estado al ultimo 'git commit -m ""'
+git checkout -- .
+
+
+### Ver estados del repositorio
+git log
+
+### Corregir un commit
+git commit --amend
+	* Salir: ESC, :, w, q, y enter (:wq)
+
+### Crear una rama
+git checkout -b rama-uno
