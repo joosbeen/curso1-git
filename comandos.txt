@@ -1,0 +1,18 @@
+
+### Iniciar un repositorio con git.
+git init
+
+
+### Agregar todos los cambios
+git add .
+
+
+### Quitar cambios agregados del ultimo 'git add.'
+git reset .
+
+
+### Guargar una copia de los cambios
+git commit -m "inf del cambios"
+
+
+### git checkout -- .
