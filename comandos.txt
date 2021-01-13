@@ -40,3 +40,6 @@ git merge rama-uno
 
 ### Eliminar una rama
 git checkout -d rama-uno
+
+### Agregar cambios y commit a archivos a seguidos
+git commit -am ""
