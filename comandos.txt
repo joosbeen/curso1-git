@@ -31,3 +31,6 @@ git checkout -b rama-uno
 
 ### Ver es que rama se esta trabajando
 git branch
+
+### Cambair de rama
+git checkout master
